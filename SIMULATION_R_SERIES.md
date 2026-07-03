@@ -24,4 +24,7 @@ This document summarizes the fictional R-series simulation created in ChatGPT.
 - Z.ai (GLM)
 - OpenAI
 
+- ## From
+- Sydney Australia 
+
 All events in this document are fictional and were part of a roleplay/simulation, not real-world history.
